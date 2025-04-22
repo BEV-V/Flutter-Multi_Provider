@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api_respons" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bmi_calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/climate_app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dice_game" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flutter_map" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/quiz_app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/todo_app" vcs="Git" />
+  </component>
+</project>
